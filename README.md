@@ -9,3 +9,4 @@
 # Заголовок третий тут будет
 
 ``зачеркне``
+![maxresdefault](https://github.com/user-attachments/assets/cdac7290-02e9-4d3e-b08d-a1e9e5b1025b)
