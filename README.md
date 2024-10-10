@@ -10,4 +10,10 @@
 
 ``зачеркне``
 
+```
+x = "Hello Gleb PI-332B
+print(x)
+```
+
+
 ![alt text](maxresdefault.jpg)
